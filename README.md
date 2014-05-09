@@ -6,8 +6,6 @@ Custom expansion pack for Cards Against Humanity.
 <h1>
 To Do
 </h1>
-============
-============
 
 <OL>
   <LI> Finish Black Card list   May 14th </LI>
