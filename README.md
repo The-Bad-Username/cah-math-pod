@@ -1,6 +1,6 @@
 <PRE>
 <H1>
-cah-math-pod
+Cards Against Humanity, Math Pod
 </H1>
 Custom expansion pack for Cards Against Humanity.
 
